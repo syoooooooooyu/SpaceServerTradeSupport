@@ -113,6 +113,14 @@ client.on('message', message => {
             value: "https://discord.com/oauth2/authorize?client_id=767335911384940554&permissions=522304&scope=bot"
           },
           {
+            name: "サポートサーバー",
+            value: "https://discord.gg/azdRErJ"
+          },
+          {
+            name: "Github-Repository",
+            value: "https://github.com/Natu9/SpaceServerTradeSupport"
+          },
+          {
             name: "アナウンス",
             value: "これからどんどん悪い点は改善されていきますのでよろしくお願いします。"
           }
